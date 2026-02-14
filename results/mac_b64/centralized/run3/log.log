@@ -1,0 +1,36 @@
+Resolving data files: 100%|██████████████████████████████████████████████████████| 2000/2000 [00:00<00:00, 56711.59it/s]
+Resolving data files: 100%|███████████████████████████████████████████████████████| 200/200 [00:00<00:00, 211140.40it/s]
+
+Epoch 1/1
+epoch 1 | step 0/31 | loss = 1.7638 | 1 / 31 | 4.6851s
+epoch 1 | step 1/31 | loss = 1.4885 | 2 / 31 | 4.4449s
+epoch 1 | step 2/31 | loss = 1.4040 | 3 / 31 | 4.3784s
+epoch 1 | step 3/31 | loss = 1.3524 | 4 / 31 | 4.3404s
+epoch 1 | step 4/31 | loss = 1.2670 | 5 / 31 | 4.3703s
+epoch 1 | step 5/31 | loss = 1.3117 | 6 / 31 | 4.4489s
+epoch 1 | step 6/31 | loss = 1.2936 | 7 / 31 | 4.4095s
+epoch 1 | step 7/31 | loss = 1.2984 | 8 / 31 | 4.3484s
+epoch 1 | step 8/31 | loss = 1.1179 | 9 / 31 | 4.3957s
+epoch 1 | step 9/31 | loss = 1.1954 | 10 / 31 | 4.3067s
+epoch 1 | step 10/31 | loss = 1.1968 | 11 / 31 | 4.4730s
+epoch 1 | step 11/31 | loss = 1.1249 | 12 / 31 | 4.3854s
+epoch 1 | step 12/31 | loss = 1.2360 | 13 / 31 | 4.3864s
+epoch 1 | step 13/31 | loss = 1.1552 | 14 / 31 | 4.4102s
+epoch 1 | step 14/31 | loss = 1.0522 | 15 / 31 | 4.3924s
+epoch 1 | step 15/31 | loss = 1.0212 | 16 / 31 | 4.3558s
+epoch 1 | step 16/31 | loss = 0.9951 | 17 / 31 | 4.4021s
+epoch 1 | step 17/31 | loss = 0.9647 | 18 / 31 | 4.3678s
+epoch 1 | step 18/31 | loss = 1.0087 | 19 / 31 | 4.4405s
+epoch 1 | step 19/31 | loss = 1.0450 | 20 / 31 | 4.3850s
+epoch 1 | step 20/31 | loss = 0.9475 | 21 / 31 | 4.4204s
+epoch 1 | step 21/31 | loss = 0.8099 | 22 / 31 | 4.3834s
+epoch 1 | step 22/31 | loss = 0.8749 | 23 / 31 | 4.3871s
+epoch 1 | step 23/31 | loss = 0.8313 | 24 / 31 | 4.4301s
+epoch 1 | step 24/31 | loss = 0.8917 | 25 / 31 | 4.3735s
+epoch 1 | step 25/31 | loss = 0.8816 | 26 / 31 | 4.4569s
+epoch 1 | step 26/31 | loss = 0.9132 | 27 / 31 | 4.3851s
+epoch 1 | step 27/31 | loss = 0.7667 | 28 / 31 | 4.3902s
+epoch 1 | step 28/31 | loss = 0.7374 | 29 / 31 | 4.4002s
+epoch 1 | step 29/31 | loss = 0.7630 | 30 / 31 | 4.3592s
+epoch 1 | step 30/31 | loss = 0.7396 | 31 / 31 | 4.3884s
+

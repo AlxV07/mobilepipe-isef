@@ -1,0 +1,45 @@
+MICROBATCH_SIZE: 4
+NOF MICROBATCHES: 16
+Resolving data files: 100%|██████████████████████████████████████████████████████| 2000/2000 [00:00<00:00, 64110.05it/s]
+Resolving data files: 100%|███████████████████████████████████████████████████████| 200/200 [00:00<00:00, 863025.51it/s]
+Starting MobilePipe training...
+===== STARTING CONFIG TEST 1
+===== STARTING CONFIG TEST 2
+===== STARTING CONFIG TEST 3
+1 4.244362036387126
+2 2.5339159965515137
+3 2.6585659980773926
+Selected: 2
+Starting main training...
+epoch 1 | step 0/31 | loss = 1.7032 | global_step = 1/31 | 2.3156769275665283
+epoch 1 | step 1/31 | loss = 1.4296 | global_step = 2/31 | 2.300420045852661
+epoch 1 | step 2/31 | loss = 1.4461 | global_step = 3/31 | 2.3111748695373535
+epoch 1 | step 3/31 | loss = 1.3388 | global_step = 4/31 | 2.3229639530181885
+epoch 1 | step 4/31 | loss = 1.3370 | global_step = 5/31 | 2.2958648204803467
+epoch 1 | step 5/31 | loss = 1.3606 | global_step = 6/31 | 2.3227388858795166
+epoch 1 | step 6/31 | loss = 1.4003 | global_step = 7/31 | 2.3141841888427734
+epoch 1 | step 7/31 | loss = 1.3282 | global_step = 8/31 | 2.3173038959503174
+epoch 1 | step 8/31 | loss = 1.2640 | global_step = 9/31 | 2.3095169067382812
+epoch 1 | step 9/31 | loss = 1.2771 | global_step = 10/31 | 2.3251919746398926
+epoch 1 | step 10/31 | loss = 1.2186 | global_step = 11/31 | 2.303476095199585
+epoch 1 | step 11/31 | loss = 1.1619 | global_step = 12/31 | 2.3212857246398926
+epoch 1 | step 12/31 | loss = 1.2514 | global_step = 13/31 | 2.3079662322998047
+epoch 1 | step 13/31 | loss = 1.0884 | global_step = 14/31 | 2.312807083129883
+epoch 1 | step 14/31 | loss = 1.1755 | global_step = 15/31 | 2.3237860202789307
+epoch 1 | step 15/31 | loss = 1.0867 | global_step = 16/31 | 2.3284811973571777
+epoch 1 | step 16/31 | loss = 1.1368 | global_step = 17/31 | 2.31223726272583
+epoch 1 | step 17/31 | loss = 1.0445 | global_step = 18/31 | 2.306123971939087
+epoch 1 | step 18/31 | loss = 1.0014 | global_step = 19/31 | 2.311922073364258
+epoch 1 | step 19/31 | loss = 0.9699 | global_step = 20/31 | 2.313136100769043
+epoch 1 | step 20/31 | loss = 1.0200 | global_step = 21/31 | 2.3080341815948486
+epoch 1 | step 21/31 | loss = 0.8592 | global_step = 22/31 | 2.315253973007202
+epoch 1 | step 22/31 | loss = 0.9429 | global_step = 23/31 | 2.3137099742889404
+epoch 1 | step 23/31 | loss = 0.9470 | global_step = 24/31 | 2.3174471855163574
+epoch 1 | step 24/31 | loss = 0.9013 | global_step = 25/31 | 2.3169338703155518
+epoch 1 | step 25/31 | loss = 0.8512 | global_step = 26/31 | 2.323753833770752
+epoch 1 | step 26/31 | loss = 0.9022 | global_step = 27/31 | 2.3061459064483643
+epoch 1 | step 27/31 | loss = 0.7423 | global_step = 28/31 | 2.304792642593384
+epoch 1 | step 28/31 | loss = 0.8759 | global_step = 29/31 | 2.324047088623047
+epoch 1 | step 29/31 | loss = 0.7977 | global_step = 30/31 | 2.297086238861084
+epoch 1 | step 30/31 | loss = 0.9173 | global_step = 31/31 | 2.309117317199707
+

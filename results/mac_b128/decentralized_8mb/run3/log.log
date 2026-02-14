@@ -1,0 +1,29 @@
+MICROBATCH_SIZE: 16
+NOF MICROBATCHES: 8
+Resolving data files: 100%|██████████████████████████████████████████████████████| 2000/2000 [00:00<00:00, 64245.08it/s]
+Resolving data files: 100%|███████████████████████████████████████████████████████| 200/200 [00:00<00:00, 934143.43it/s]
+Starting MobilePipe training...
+===== STARTING CONFIG TEST 1
+===== STARTING CONFIG TEST 2
+===== STARTING CONFIG TEST 3
+1 8.302196423212687
+2 7.0753185749053955
+3 9.499019622802734
+Selected: 2
+Starting main training...
+epoch 1 | step 0/15 | loss = 1.8456 | global_step = 1/15 | 6.6362059116363525
+epoch 1 | step 1/15 | loss = 1.4554 | global_step = 2/15 | 6.531844139099121
+epoch 1 | step 2/15 | loss = 1.3307 | global_step = 3/15 | 6.554141044616699
+epoch 1 | step 3/15 | loss = 1.2768 | global_step = 4/15 | 6.5474889278411865
+epoch 1 | step 4/15 | loss = 1.3436 | global_step = 5/15 | 6.732126951217651
+epoch 1 | step 5/15 | loss = 1.2821 | global_step = 6/15 | 6.703802824020386
+epoch 1 | step 6/15 | loss = 1.2493 | global_step = 7/15 | 7.01375412940979
+epoch 1 | step 7/15 | loss = 1.2297 | global_step = 8/15 | 6.681504011154175
+epoch 1 | step 8/15 | loss = 1.1685 | global_step = 9/15 | 6.958018779754639
+epoch 1 | step 9/15 | loss = 1.1171 | global_step = 10/15 | 6.807965993881226
+epoch 1 | step 10/15 | loss = 1.0417 | global_step = 11/15 | 6.707452774047852
+epoch 1 | step 11/15 | loss = 1.0049 | global_step = 12/15 | 6.7104010581970215
+epoch 1 | step 12/15 | loss = 1.0234 | global_step = 13/15 | 6.819354057312012
+epoch 1 | step 13/15 | loss = 0.9507 | global_step = 14/15 | 6.698339223861694
+epoch 1 | step 14/15 | loss = 0.9447 | global_step = 15/15 | 6.72530722618103
+

@@ -1,0 +1,67 @@
+Resolving data files: 100%|██████████████████████████████████████| 2000/2000 [00:00<00:00, 86690.52it/s]
+Resolving data files: 100%|████████████████████████████████████████| 200/200 [00:00<00:00, 49234.70it/s]
+
+Epoch 1/1
+epoch 1 | step 0/62 | loss = 1.5241 | 1 / 62 | 3.1841s
+epoch 1 | step 1/62 | loss = 1.7487 | 2 / 62 | 3.1196s
+epoch 1 | step 2/62 | loss = 1.5822 | 3 / 62 | 3.1068s
+epoch 1 | step 3/62 | loss = 1.5581 | 4 / 62 | 3.1102s
+epoch 1 | step 4/62 | loss = 1.6372 | 5 / 62 | 3.1121s
+epoch 1 | step 5/62 | loss = 1.5382 | 6 / 62 | 3.1064s
+epoch 1 | step 6/62 | loss = 1.4774 | 7 / 62 | 3.1082s
+epoch 1 | step 7/62 | loss = 1.3475 | 8 / 62 | 3.1367s
+epoch 1 | step 8/62 | loss = 1.4047 | 9 / 62 | 3.1152s
+epoch 1 | step 9/62 | loss = 1.3835 | 10 / 62 | 3.0990s
+epoch 1 | step 10/62 | loss = 1.4549 | 11 / 62 | 3.1068s
+epoch 1 | step 11/62 | loss = 1.3401 | 12 / 62 | 3.1101s
+epoch 1 | step 12/62 | loss = 1.3640 | 13 / 62 | 3.1284s
+epoch 1 | step 13/62 | loss = 1.2689 | 14 / 62 | 3.1117s
+epoch 1 | step 14/62 | loss = 1.2839 | 15 / 62 | 3.1141s
+epoch 1 | step 15/62 | loss = 1.4459 | 16 / 62 | 3.1074s
+epoch 1 | step 16/62 | loss = 1.2749 | 17 / 62 | 3.1115s
+epoch 1 | step 17/62 | loss = 1.4075 | 18 / 62 | 3.0979s
+epoch 1 | step 18/62 | loss = 1.2786 | 19 / 62 | 3.1326s
+epoch 1 | step 19/62 | loss = 1.2442 | 20 / 62 | 3.1038s
+epoch 1 | step 20/62 | loss = 1.3174 | 21 / 62 | 3.0982s
+epoch 1 | step 21/62 | loss = 1.2621 | 22 / 62 | 3.1018s
+epoch 1 | step 22/62 | loss = 1.2724 | 23 / 62 | 3.1082s
+epoch 1 | step 23/62 | loss = 1.2673 | 24 / 62 | 3.1202s
+epoch 1 | step 24/62 | loss = 1.2554 | 25 / 62 | 3.0975s
+epoch 1 | step 25/62 | loss = 1.1706 | 26 / 62 | 3.0985s
+epoch 1 | step 26/62 | loss = 1.2657 | 27 / 62 | 3.1125s
+epoch 1 | step 27/62 | loss = 1.3160 | 28 / 62 | 3.1099s
+epoch 1 | step 28/62 | loss = 1.1773 | 29 / 62 | 3.0979s
+epoch 1 | step 29/62 | loss = 1.1217 | 30 / 62 | 3.1018s
+epoch 1 | step 30/62 | loss = 1.1411 | 31 / 62 | 3.1024s
+epoch 1 | step 31/62 | loss = 1.1926 | 32 / 62 | 3.1021s
+epoch 1 | step 32/62 | loss = 1.1315 | 33 / 62 | 3.1022s
+epoch 1 | step 33/62 | loss = 1.2275 | 34 / 62 | 3.0868s
+epoch 1 | step 34/62 | loss = 1.0292 | 35 / 62 | 3.0950s
+epoch 1 | step 35/62 | loss = 1.1357 | 36 / 62 | 3.1009s
+epoch 1 | step 36/62 | loss = 1.1629 | 37 / 62 | 3.1103s
+epoch 1 | step 37/62 | loss = 1.1960 | 38 / 62 | 3.1022s
+epoch 1 | step 38/62 | loss = 1.1130 | 39 / 62 | 3.1264s
+epoch 1 | step 39/62 | loss = 0.9507 | 40 / 62 | 3.1076s
+epoch 1 | step 40/62 | loss = 1.0495 | 41 / 62 | 3.1069s
+epoch 1 | step 41/62 | loss = 1.1327 | 42 / 62 | 3.1210s
+epoch 1 | step 42/62 | loss = 0.9307 | 43 / 62 | 3.1171s
+epoch 1 | step 43/62 | loss = 0.9452 | 44 / 62 | 3.1027s
+epoch 1 | step 44/62 | loss = 1.0558 | 45 / 62 | 3.1135s
+epoch 1 | step 45/62 | loss = 1.0478 | 46 / 62 | 3.1197s
+epoch 1 | step 46/62 | loss = 0.9826 | 47 / 62 | 3.1145s
+epoch 1 | step 47/62 | loss = 0.8674 | 48 / 62 | 3.1074s
+epoch 1 | step 48/62 | loss = 0.8755 | 49 / 62 | 3.1093s
+epoch 1 | step 49/62 | loss = 1.1060 | 50 / 62 | 3.1158s
+epoch 1 | step 50/62 | loss = 0.9182 | 51 / 62 | 3.1182s
+epoch 1 | step 51/62 | loss = 1.0798 | 52 / 62 | 3.1334s
+epoch 1 | step 52/62 | loss = 0.8672 | 53 / 62 | 3.1073s
+epoch 1 | step 53/62 | loss = 0.9453 | 54 / 62 | 3.0940s
+epoch 1 | step 54/62 | loss = 0.8774 | 55 / 62 | 3.1046s
+epoch 1 | step 55/62 | loss = 0.7934 | 56 / 62 | 3.1073s
+epoch 1 | step 56/62 | loss = 1.0138 | 57 / 62 | 3.0998s
+epoch 1 | step 57/62 | loss = 0.7227 | 58 / 62 | 3.1190s
+epoch 1 | step 58/62 | loss = 1.0246 | 59 / 62 | 3.1059s
+epoch 1 | step 59/62 | loss = 0.9024 | 60 / 62 | 3.1043s
+epoch 1 | step 60/62 | loss = 0.8053 | 61 / 62 | 3.0989s
+epoch 1 | step 61/62 | loss = 0.8037 | 62 / 62 | 3.0993s
+

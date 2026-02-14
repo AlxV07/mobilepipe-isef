@@ -1,0 +1,27 @@
+Resolving data files: 100%|██████████████████████████████████████| 2000/2000 [00:00<00:00, 15184.27it/s]
+Resolving data files: 100%|████████████████████████████████████████| 200/200 [00:00<00:00, 27778.69it/s]
+Starting MobilePipe training...
+===== STARTING CONFIG TEST 1
+===== STARTING CONFIG TEST 2
+===== STARTING CONFIG TEST 3
+1 9.885858297348022
+2 9.02308209737142
+3 12.742888530095419
+Selected: 2
+Starting main training...
+epoch 1 | step 0/15 | loss = 1.6376 | global_step = 1/15 | 6.929985523223877
+epoch 1 | step 1/15 | loss = 1.3620 | global_step = 2/15 | 6.938522100448608
+epoch 1 | step 2/15 | loss = 1.3051 | global_step = 3/15 | 6.912472724914551
+epoch 1 | step 3/15 | loss = 1.3010 | global_step = 4/15 | 6.932278871536255
+epoch 1 | step 4/15 | loss = 1.2183 | global_step = 5/15 | 6.919209957122803
+epoch 1 | step 5/15 | loss = 1.1047 | global_step = 6/15 | 6.905148506164551
+epoch 1 | step 6/15 | loss = 1.1793 | global_step = 7/15 | 6.951925754547119
+epoch 1 | step 7/15 | loss = 1.0675 | global_step = 8/15 | 6.926769971847534
+epoch 1 | step 8/15 | loss = 1.0060 | global_step = 9/15 | 6.949272155761719
+epoch 1 | step 9/15 | loss = 1.0179 | global_step = 10/15 | 6.940054416656494
+epoch 1 | step 10/15 | loss = 0.9417 | global_step = 11/15 | 6.927273511886597
+epoch 1 | step 11/15 | loss = 0.9123 | global_step = 12/15 | 6.96116304397583
+epoch 1 | step 12/15 | loss = 0.9143 | global_step = 13/15 | 6.956572532653809
+epoch 1 | step 13/15 | loss = 0.8448 | global_step = 14/15 | 6.895716190338135
+epoch 1 | step 14/15 | loss = 0.9169 | global_step = 15/15 | 6.914545297622681
+

@@ -1,0 +1,19 @@
+Resolving data files: 100%|██████████████████████████████████████| 2000/2000 [00:00<00:00, 18230.71it/s]
+Resolving data files: 100%|████████████████████████████████████████| 200/200 [00:00<00:00, 36249.98it/s]
+Starting MobilePipe training...
+===== STARTING CONFIG TEST 1
+===== STARTING CONFIG TEST 2
+===== STARTING CONFIG TEST 3
+1 19.86569380760193
+2 18.368423382441204
+3 25.67112358411153
+Selected: 2
+Starting main training...
+epoch 1 | step 0/7 | loss = 1.5507 | global_step = 1/7 | 13.895122528076172
+epoch 1 | step 1/7 | loss = 1.4695 | global_step = 2/7 | 14.288436651229858
+epoch 1 | step 2/7 | loss = 1.4689 | global_step = 3/7 | 14.142695903778076
+epoch 1 | step 3/7 | loss = 1.3841 | global_step = 4/7 | 14.362345457077026
+epoch 1 | step 4/7 | loss = 1.2090 | global_step = 5/7 | 14.0663902759552
+epoch 1 | step 5/7 | loss = 1.1512 | global_step = 6/7 | 14.385385036468506
+epoch 1 | step 6/7 | loss = 1.0545 | global_step = 7/7 | 14.199320316314697
+

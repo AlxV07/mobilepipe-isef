@@ -1,0 +1,36 @@
+Resolving data files: 100%|██████████████████████████████████████| 2000/2000 [00:00<00:00, 17293.64it/s]
+Resolving data files: 100%|████████████████████████████████████████| 200/200 [00:00<00:00, 37030.89it/s]
+
+Epoch 1/1
+epoch 1 | step 0/31 | loss = 1.7424 | 1 / 31 | 6.4251s
+epoch 1 | step 1/31 | loss = 1.4681 | 2 / 31 | 6.2960s
+epoch 1 | step 2/31 | loss = 1.4874 | 3 / 31 | 6.2865s
+epoch 1 | step 3/31 | loss = 1.4362 | 4 / 31 | 6.2650s
+epoch 1 | step 4/31 | loss = 1.3750 | 5 / 31 | 6.2415s
+epoch 1 | step 5/31 | loss = 1.3815 | 6 / 31 | 6.2099s
+epoch 1 | step 6/31 | loss = 1.2433 | 7 / 31 | 6.1926s
+epoch 1 | step 7/31 | loss = 1.2738 | 8 / 31 | 6.1687s
+epoch 1 | step 8/31 | loss = 1.2499 | 9 / 31 | 6.1884s
+epoch 1 | step 9/31 | loss = 1.2035 | 10 / 31 | 6.2062s
+epoch 1 | step 10/31 | loss = 1.2096 | 11 / 31 | 6.1801s
+epoch 1 | step 11/31 | loss = 1.2475 | 12 / 31 | 6.1691s
+epoch 1 | step 12/31 | loss = 1.2875 | 13 / 31 | 6.1619s
+epoch 1 | step 13/31 | loss = 1.0813 | 14 / 31 | 6.2615s
+epoch 1 | step 14/31 | loss = 1.1841 | 15 / 31 | 6.1787s
+epoch 1 | step 15/31 | loss = 1.2028 | 16 / 31 | 6.1779s
+epoch 1 | step 16/31 | loss = 1.1368 | 17 / 31 | 6.1821s
+epoch 1 | step 17/31 | loss = 1.0799 | 18 / 31 | 6.1784s
+epoch 1 | step 18/31 | loss = 1.1558 | 19 / 31 | 6.2148s
+epoch 1 | step 19/31 | loss = 1.1020 | 20 / 31 | 6.1929s
+epoch 1 | step 20/31 | loss = 1.0629 | 21 / 31 | 6.1795s
+epoch 1 | step 21/31 | loss = 0.9967 | 22 / 31 | 6.1659s
+epoch 1 | step 22/31 | loss = 0.9691 | 23 / 31 | 6.2082s
+epoch 1 | step 23/31 | loss = 0.9604 | 24 / 31 | 6.1603s
+epoch 1 | step 24/31 | loss = 0.8502 | 25 / 31 | 6.2092s
+epoch 1 | step 25/31 | loss = 0.9444 | 26 / 31 | 6.2036s
+epoch 1 | step 26/31 | loss = 0.8883 | 27 / 31 | 6.1644s
+epoch 1 | step 27/31 | loss = 0.9027 | 28 / 31 | 6.2171s
+epoch 1 | step 28/31 | loss = 0.8515 | 29 / 31 | 6.1654s
+epoch 1 | step 29/31 | loss = 0.7664 | 30 / 31 | 6.2285s
+epoch 1 | step 30/31 | loss = 0.8055 | 31 / 31 | 6.1834s
+

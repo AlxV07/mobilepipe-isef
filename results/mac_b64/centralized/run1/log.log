@@ -1,0 +1,36 @@
+Resolving data files: 100%|██████████████████████████████████████████████████████| 2000/2000 [00:00<00:00, 57385.08it/s]
+Resolving data files: 100%|███████████████████████████████████████████████████████| 200/200 [00:00<00:00, 165423.15it/s]
+
+Epoch 1/1
+epoch 1 | step 0/31 | loss = 1.6581 | 1 / 31 | 4.6172s
+epoch 1 | step 1/31 | loss = 1.4176 | 2 / 31 | 4.2696s
+epoch 1 | step 2/31 | loss = 1.4229 | 3 / 31 | 4.2935s
+epoch 1 | step 3/31 | loss = 1.3820 | 4 / 31 | 4.3645s
+epoch 1 | step 4/31 | loss = 1.3814 | 5 / 31 | 4.3180s
+epoch 1 | step 5/31 | loss = 1.3298 | 6 / 31 | 4.4350s
+epoch 1 | step 6/31 | loss = 1.2613 | 7 / 31 | 4.3917s
+epoch 1 | step 7/31 | loss = 1.2484 | 8 / 31 | 4.3810s
+epoch 1 | step 8/31 | loss = 1.2444 | 9 / 31 | 4.3498s
+epoch 1 | step 9/31 | loss = 1.1495 | 10 / 31 | 4.4701s
+epoch 1 | step 10/31 | loss = 1.2676 | 11 / 31 | 4.3989s
+epoch 1 | step 11/31 | loss = 1.2106 | 12 / 31 | 4.4387s
+epoch 1 | step 12/31 | loss = 1.1815 | 13 / 31 | 4.5237s
+epoch 1 | step 13/31 | loss = 1.2195 | 14 / 31 | 4.4566s
+epoch 1 | step 14/31 | loss = 1.1258 | 15 / 31 | 4.4743s
+epoch 1 | step 15/31 | loss = 1.0367 | 16 / 31 | 4.5441s
+epoch 1 | step 16/31 | loss = 1.0869 | 17 / 31 | 4.4037s
+epoch 1 | step 17/31 | loss = 1.0704 | 18 / 31 | 4.7088s
+epoch 1 | step 18/31 | loss = 0.9810 | 19 / 31 | 4.6358s
+epoch 1 | step 19/31 | loss = 0.9609 | 20 / 31 | 4.7815s
+epoch 1 | step 20/31 | loss = 0.9359 | 21 / 31 | 4.5597s
+epoch 1 | step 21/31 | loss = 0.9461 | 22 / 31 | 4.4306s
+epoch 1 | step 22/31 | loss = 0.8801 | 23 / 31 | 4.5690s
+epoch 1 | step 23/31 | loss = 0.9387 | 24 / 31 | 4.5774s
+epoch 1 | step 24/31 | loss = 0.8703 | 25 / 31 | 4.6025s
+epoch 1 | step 25/31 | loss = 0.9326 | 26 / 31 | 4.6016s
+epoch 1 | step 26/31 | loss = 1.0107 | 27 / 31 | 4.5381s
+epoch 1 | step 27/31 | loss = 0.8939 | 28 / 31 | 4.6166s
+epoch 1 | step 28/31 | loss = 0.7441 | 29 / 31 | 4.6263s
+epoch 1 | step 29/31 | loss = 0.8916 | 30 / 31 | 4.5361s
+epoch 1 | step 30/31 | loss = 0.8205 | 31 / 31 | 4.5135s
+

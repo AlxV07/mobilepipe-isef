@@ -1,0 +1,73 @@
+Resolving data files: 100%|██████████████████████████████████████| 2000/2000 [00:00<00:00, 16796.87it/s]
+Resolving data files: 100%|████████████████████████████████████████| 200/200 [00:00<00:00, 64088.99it/s]
+Downloading data: 100%|███████████████████████████████████████| 2000/2000 [00:00<00:00, 46046.47files/s]
+Downloading data: 100%|█████████████████████████████████████████| 200/200 [00:00<00:00, 39373.89files/s]
+Generating train split: 2000 examples [00:00, 12450.01 examples/s]
+Generating validation split: 200 examples [00:00, 13084.71 examples/s]
+Map: 100%|██████████████████████████████████████████████████| 2000/2000 [00:09<00:00, 204.35 examples/s]
+Map: 100%|████████████████████████████████████████████████████| 200/200 [00:01<00:00, 197.66 examples/s]
+
+Epoch 1/1
+epoch 1 | step 0/62 | loss = 1.4084 | 1 / 62 | 3.3706s
+epoch 1 | step 1/62 | loss = 1.3982 | 2 / 62 | 3.1244s
+epoch 1 | step 2/62 | loss = 1.3506 | 3 / 62 | 3.1113s
+epoch 1 | step 3/62 | loss = 1.3071 | 4 / 62 | 3.1194s
+epoch 1 | step 4/62 | loss = 1.4609 | 5 / 62 | 3.1373s
+epoch 1 | step 5/62 | loss = 1.3310 | 6 / 62 | 3.1145s
+epoch 1 | step 6/62 | loss = 1.3192 | 7 / 62 | 3.1108s
+epoch 1 | step 7/62 | loss = 1.3532 | 8 / 62 | 3.1205s
+epoch 1 | step 8/62 | loss = 1.2897 | 9 / 62 | 3.1197s
+epoch 1 | step 9/62 | loss = 1.2542 | 10 / 62 | 3.1157s
+epoch 1 | step 10/62 | loss = 1.2537 | 11 / 62 | 3.1082s
+epoch 1 | step 11/62 | loss = 1.2000 | 12 / 62 | 3.1103s
+epoch 1 | step 12/62 | loss = 1.2987 | 13 / 62 | 3.1170s
+epoch 1 | step 13/62 | loss = 1.2672 | 14 / 62 | 3.1068s
+epoch 1 | step 14/62 | loss = 1.1969 | 15 / 62 | 3.1129s
+epoch 1 | step 15/62 | loss = 1.0825 | 16 / 62 | 3.1144s
+epoch 1 | step 16/62 | loss = 1.1368 | 17 / 62 | 3.1149s
+epoch 1 | step 17/62 | loss = 1.0340 | 18 / 62 | 3.1180s
+epoch 1 | step 18/62 | loss = 0.9978 | 19 / 62 | 3.1258s
+epoch 1 | step 19/62 | loss = 1.1314 | 20 / 62 | 3.1170s
+epoch 1 | step 20/62 | loss = 1.1175 | 21 / 62 | 3.1129s
+epoch 1 | step 21/62 | loss = 1.0144 | 22 / 62 | 3.1124s
+epoch 1 | step 22/62 | loss = 1.0755 | 23 / 62 | 3.1074s
+epoch 1 | step 23/62 | loss = 1.0191 | 24 / 62 | 3.1091s
+epoch 1 | step 24/62 | loss = 0.9614 | 25 / 62 | 3.1138s
+epoch 1 | step 25/62 | loss = 1.0645 | 26 / 62 | 3.1114s
+epoch 1 | step 26/62 | loss = 1.0280 | 27 / 62 | 3.1365s
+epoch 1 | step 27/62 | loss = 1.0972 | 28 / 62 | 3.1364s
+epoch 1 | step 28/62 | loss = 1.0919 | 29 / 62 | 3.1204s
+epoch 1 | step 29/62 | loss = 1.0016 | 30 / 62 | 3.1222s
+epoch 1 | step 30/62 | loss = 1.0239 | 31 / 62 | 3.1167s
+epoch 1 | step 31/62 | loss = 0.7326 | 32 / 62 | 3.1315s
+epoch 1 | step 32/62 | loss = 0.9174 | 33 / 62 | 3.1159s
+epoch 1 | step 33/62 | loss = 1.0521 | 34 / 62 | 3.1268s
+epoch 1 | step 34/62 | loss = 0.8692 | 35 / 62 | 3.1215s
+epoch 1 | step 35/62 | loss = 0.7308 | 36 / 62 | 3.1285s
+epoch 1 | step 36/62 | loss = 0.7904 | 37 / 62 | 3.1257s
+epoch 1 | step 37/62 | loss = 0.9095 | 38 / 62 | 3.1177s
+epoch 1 | step 38/62 | loss = 0.8576 | 39 / 62 | 3.1073s
+epoch 1 | step 39/62 | loss = 0.7378 | 40 / 62 | 3.1153s
+epoch 1 | step 40/62 | loss = 1.0054 | 41 / 62 | 3.1176s
+epoch 1 | step 41/62 | loss = 0.6998 | 42 / 62 | 3.1198s
+epoch 1 | step 42/62 | loss = 0.8197 | 43 / 62 | 3.1384s
+epoch 1 | step 43/62 | loss = 0.7050 | 44 / 62 | 3.1177s
+epoch 1 | step 44/62 | loss = 0.7480 | 45 / 62 | 3.1132s
+epoch 1 | step 45/62 | loss = 0.6054 | 46 / 62 | 3.1220s
+epoch 1 | step 46/62 | loss = 0.7750 | 47 / 62 | 3.1083s
+epoch 1 | step 47/62 | loss = 0.6455 | 48 / 62 | 3.1214s
+epoch 1 | step 48/62 | loss = 0.6606 | 49 / 62 | 3.1084s
+epoch 1 | step 49/62 | loss = 0.6836 | 50 / 62 | 3.1223s
+epoch 1 | step 50/62 | loss = 0.7640 | 51 / 62 | 3.1132s
+epoch 1 | step 51/62 | loss = 0.9350 | 52 / 62 | 3.1141s
+epoch 1 | step 52/62 | loss = 0.5841 | 53 / 62 | 3.1175s
+epoch 1 | step 53/62 | loss = 0.7976 | 54 / 62 | 3.1189s
+epoch 1 | step 54/62 | loss = 0.5815 | 55 / 62 | 3.1157s
+epoch 1 | step 55/62 | loss = 0.6585 | 56 / 62 | 3.1188s
+epoch 1 | step 56/62 | loss = 0.7396 | 57 / 62 | 3.1110s
+epoch 1 | step 57/62 | loss = 0.7492 | 58 / 62 | 3.1176s
+epoch 1 | step 58/62 | loss = 0.4255 | 59 / 62 | 3.1113s
+epoch 1 | step 59/62 | loss = 0.7002 | 60 / 62 | 3.1119s
+epoch 1 | step 60/62 | loss = 0.7451 | 61 / 62 | 3.1080s
+epoch 1 | step 61/62 | loss = 0.6839 | 62 / 62 | 3.1128s
+
