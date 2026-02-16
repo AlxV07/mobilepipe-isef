@@ -19,7 +19,7 @@ This repository contains code snippets for experiment infrastructure implementat
 
 * `results` - Results: logs from dynamic pipeline configuration selection and complete runs; organized by experiment configuration (host type, centralized/decentralized, batchsize configuration, microbatch size configuration), and consistency run index (1, 2, or 3).
 
-## Development Workflow:
+## Development Workflow
 * Log result parsing/formatting & visualization python scripts were mainly written through qwen-code, with some detail corrections by hand (using model Qwen3-Coder-480B-A35B-Instruct).
 * Repetitive parts of the manual ResNet layer MPSGraph implementation was partially generated via Vim macro scripts.
 * The rest of the codebase was written by hand (even top closed-source models (tested w/ GPT-5, Gemini 3) struggled significantly when attempting to handle the Python + Swift environment alongside the more obscure MPSGraph framework, most likely due to the uniquely unfamiliar working environment and context-switching.
