@@ -10,7 +10,7 @@ This repository contains code snippets for experiment infrastructure implementat
 
 ### Experimentation Infrastructure
 
-* `client` - Client Layer: mobile (iOS) layer using Swift + Metal Performance Shaders (MPSGraph for hardware accelerated ML operations)
+* `client` - Client Layer: mobile (iOS) layer using Swift + Metal Performance Shaders (MPSGraph for hardware accelerated ML operations; we chose MPSGraph over MLX Swift due to more direct control over memory and operation flow on the iOS Neural Engine and GPU (MLX is built on top of MPSGraph; mlx is generally faster than the mps backend (integrated through Python) on Mac computers, but on iOS MPSGraph runs directly native through Metal Shading Language GPU kernels).
 * `comms` - Communication Layer: libimobiledevice iproxy & data communication handler
 * `host` - Host Layer: desktop Python layer using PyTorch + torchvision
 * `workflow` - Experiment Workflow: training scripts and CLI tools for running automated train workflows
