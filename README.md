@@ -4,6 +4,8 @@
   <img src="images/trifold.png" alt="Trifold Presentation" width="800">
 </p>
 
+(click image to view larger PNG in repo)
+
 ## Overview
 
 This is the presentation code repository for the ISEF 25-26 Project: "MobilePipe: iPhones as Parallel Compute Accelerators for Local Machine Learning", by Alexander Chen (Homeschool, Dallas, TX, USA).
